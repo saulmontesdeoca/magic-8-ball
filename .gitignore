@@ -1,0 +1,5 @@
+.env
+# add the name of your venv here
+
+.DS_Store
+__pycache__
