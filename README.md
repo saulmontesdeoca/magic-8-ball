@@ -27,4 +27,4 @@ python3 -m pip install -U discord.py
 ```
 pip3 install python-dotenv
 ```
-5. Create a discord server to test your bot (optional, but useful)
+5. Create a discord server to test your bot on
